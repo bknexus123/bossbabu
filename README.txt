@@ -1,6 +1,9 @@
-BossBabu | Tiny Boss. Big Entrance.
+BossBabu Coming Soon Website
 
-Upload index.html to your website root (public_html), or upload this folder to Cloudflare Pages as a static site.
-No build step or installation needed. All logo images and animations are embedded.
+Upload index.html to your website root (public_html), or upload this folder to Cloudflare Pages as a static site. No installation or build command needed.
 
-Features: original logo and slogan, peek-a-boo entrance, smiling face, floating stars/bubbles/toy blocks, tap or keyboard activation for a star burst, mobile layouts, reduced-motion support.
+Everything is embedded in index.html: logo, slogan, CSS, SVG artwork and JavaScript. No extra assets or internet fonts are required.
+
+To preview on a computer, open index.html in Chrome or Edge. Mobile attachment previews may not execute animations; use the hosted website in Safari on iPhone.
+
+Includes peek-a-boo entrance, moving smiling face, floating decorations and click/tap star burst. Reduced-motion mode uses gentle head movement. The Pause motion button has been removed.
